@@ -14,7 +14,7 @@ Then at the given time you just do a break :)
 
 ## Installation
 
-`pomofuck` is installed in **all**/**any** Discord servers by default.
+`pomofuck` is installed in **all** Discord servers by default.
 
 ## License
 
